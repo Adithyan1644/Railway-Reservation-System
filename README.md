@@ -195,3 +195,18 @@ Travel Date (yyyy-mm-dd): 2026-05-15
 Booking successful!
 PNR: PNR1734567890 | Train: 12345 | Rajesh Kumar | Date: 2026-05-15 | Seats: [S1, S2] | ₹2500.00 | CONFIRMED
 ```
+
+🔮 Future Enhancements
+Persist data using JDBC (MySQL / PostgreSQL).
+
+Add web interface using Spring Boot + Thymeleaf.
+
+Implement user authentication (login / logout).
+
+Async email confirmation using ExecutorService.
+
+Improve seat allocation – real seat numbers per train.
+
+Add upgrade/downgrade of travel class (Sleeper, AC, General).
+
+REST API for integration with mobile apps.
