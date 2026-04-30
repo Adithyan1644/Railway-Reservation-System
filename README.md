@@ -130,7 +130,7 @@ java -cp out com.railway.app.MainApp
 ```
 
 
-🎮 How to Use
+## 🎮 How to Use
 After launching, you will see a menu:
 ```
 ===== Railway Reservation System =====
