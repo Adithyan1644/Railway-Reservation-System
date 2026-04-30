@@ -26,7 +26,7 @@ It demonstrates real‑world concepts like train search, user registration, tick
 - [Sample Output](#-sample-output)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
-- [License](#-MIT-License)
+- [License](#-license)
 
 ---
 
@@ -211,7 +211,7 @@ REST API for integration with mobile apps.
 Contributions are welcome!
 Feel free to fork this repository, create a feature branch, and submit a pull request.
 
-## MIT License
+## 📄 License
 
 Copyright (c) 2026 Adithyan Vijayan K
 
