@@ -26,7 +26,7 @@ It demonstrates real‑world concepts like train search, user registration, tick
 - [Sample Output](#-sample-output)
 - [Future Enhancements](#-future-enhancements)
 - [Contributing](#-contributing)
-- [License](#-MIT-License)
+- [License](#-MITLicense)
 
 ---
 
