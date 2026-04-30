@@ -201,7 +201,7 @@ Add upgrade/downgrade of travel class (Sleeper, AC, General).
 
 REST API for integration with mobile apps.
 
-🤝 Contributing
+## 🤝 Contributing
 
 
 Contributions are welcome!
