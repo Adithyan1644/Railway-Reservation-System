@@ -186,7 +186,7 @@ Booking successful!
 PNR: PNR1734567890 | Train: 12345 | Rajesh Kumar | Date: 2026-05-15 | Seats: [S1, S2] | ₹2500.00 | CONFIRMED
 ```
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 Persist data using JDBC (MySQL / PostgreSQL).
 
 Add web interface using Spring Boot + Thymeleaf.
