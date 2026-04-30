@@ -73,7 +73,7 @@ All data is stored **in‑memory** using thread‑safe collections, making the a
 ---
 
 ## 📁 Project Structure
-
+```
 RailwayReservationSystem/
 └── src/
 └── com/
@@ -98,7 +98,7 @@ RailwayReservationSystem/
 └── util/
 ├── PNRGenerator.java
 └── SeatAllocator.java
-
+```
 
 text
 
