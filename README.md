@@ -155,6 +155,8 @@ After launching, you will see a menu:
 ```
 
 ##Typical Workflow
+
+
 Search trains – enter source & destination, system shows available trains.
 
 Register a user – provide user ID, name, email, phone.
