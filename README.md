@@ -85,11 +85,9 @@ RailwayReservationSystem/
 ├── data/
 │ └── DataStore.java # Singleton + ConcurrentHashMap storage
 ├── exception/
-
 │ ├── BookingException.java
 │ └── TrainNotFoundException.java
 ├── model/
-
 │ ├── BookingStatus.java
 │ ├── Ticket.java
 │ ├── Train.java
@@ -103,6 +101,7 @@ RailwayReservationSystem/
 ├── PNRGenerator.java
 └── SeatAllocator.java
 
+text
 
 ---
 
