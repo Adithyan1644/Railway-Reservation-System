@@ -210,3 +210,7 @@ Improve seat allocation – real seat numbers per train.
 Add upgrade/downgrade of travel class (Sleeper, AC, General).
 
 REST API for integration with mobile apps.
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repository, create a feature branch, and submit a pull request.
