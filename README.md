@@ -98,3 +98,30 @@ RailwayReservationSystem/
 └── util/
 ├── PNRGenerator.java
 └── SeatAllocator.java
+
+
+---
+
+## 🛠 Getting Started
+
+### Prerequisites
+
+- **Java 11** or higher (for `java.time`, `var` not required)
+- **Eclipse IDE** (or any Java IDE / command line)
+- No external libraries – pure Java
+
+### Running from Eclipse
+
+1. Clone or download the project.
+2. Open Eclipse → **File** → **Import** → **Existing Projects into Workspace**.
+3. Select the project folder and click **Finish**.
+4. Right‑click `MainApp.java` → **Run As** → **Java Application**.
+
+### Running from Command Line
+
+```bash
+# Compile all Java files
+javac -d out src/com/railway/**/*.java
+
+# Run the application
+java -cp out com.railway.app.MainApp
