@@ -160,7 +160,7 @@ View past bookings – automatically filters tickets with travel date before tod
 Cancel a ticket – using the PNR shown after booking.
 
 
-📸 Sample Output
+## 📸 Sample Output
 ```
 text
 Sample trains loaded.
