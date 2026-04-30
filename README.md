@@ -1,4 +1,6 @@
-# Railway-Reservation-System
+# ☕ Railway Reservation System
+
+![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=java&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # 🚂 Railway Reservation System
 
