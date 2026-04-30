@@ -100,13 +100,6 @@ RailwayReservationSystem/
 └── SeatAllocator.java
 
 
-
-
-
-
-
-
-
 text
 
 ---
