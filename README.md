@@ -154,7 +154,7 @@ After launching, you will see a menu:
 8. Exit
 ```
 
-##Typical Workflow
+Typical Workflow
 
 
 Search trains – enter source & destination, system shows available trains.
@@ -168,3 +168,30 @@ View your tickets – list all bookings for that user.
 View past bookings – automatically filters tickets with travel date before today.
 
 Cancel a ticket – using the PNR shown after booking.
+
+
+📸 Sample Output
+```
+text
+Sample trains loaded.
+
+1. Search Trains
+Enter Source: Delhi
+Enter Destination: Mumbai
+12345 | Shatabdi Exp | Delhi → Mumbai | Dep: 06:00 | Arr: 14:00 | ₹1250.00 | Seats: 100/100
+
+2. Register User
+User ID: U1001
+Name: Rajesh Kumar
+Email: rajesh@example.com
+Phone: 9876543210
+User registered: User[U1001] Rajesh Kumar (rajesh@example.com / 9876543210)
+
+3. Book Ticket
+Enter Train Number: 12345
+Enter User ID: U1001
+Number of seats: 2
+Travel Date (yyyy-mm-dd): 2026-05-15
+Booking successful!
+PNR: PNR1734567890 | Train: 12345 | Rajesh Kumar | Date: 2026-05-15 | Seats: [S1, S2] | ₹2500.00 | CONFIRMED
+```
