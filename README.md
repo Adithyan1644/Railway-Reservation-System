@@ -153,3 +153,16 @@ After launching, you will see a menu:
 7. View Past Bookings
 8. Exit
 ```
+
+Typical Workflow
+Search trains – enter source & destination, system shows available trains.
+
+Register a user – provide user ID, name, email, phone.
+
+Book a ticket – choose a train, user ID, number of seats, and travel date.
+
+View your tickets – list all bookings for that user.
+
+View past bookings – automatically filters tickets with travel date before today.
+
+Cancel a ticket – using the PNR shown after booking.
