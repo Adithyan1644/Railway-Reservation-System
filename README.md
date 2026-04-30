@@ -74,6 +74,8 @@ All data is stored **in‑memory** using thread‑safe collections, making the a
 
 ## 📁 Project Structure
 
+
+
 RailwayReservationSystem/
 └── src/
 └── com/
@@ -83,9 +85,11 @@ RailwayReservationSystem/
 ├── data/
 │ └── DataStore.java # Singleton + ConcurrentHashMap storage
 ├── exception/
+
 │ ├── BookingException.java
 │ └── TrainNotFoundException.java
 ├── model/
+
 │ ├── BookingStatus.java
 │ ├── Ticket.java
 │ ├── Train.java
