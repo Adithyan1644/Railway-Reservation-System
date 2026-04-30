@@ -141,6 +141,7 @@ java -cp out com.railway.app.MainApp
 
 
 🎮 How to Use
+'''bash
 After launching, you will see a menu:
 ===== Railway Reservation System =====
 1. Search Trains
@@ -151,3 +152,4 @@ After launching, you will see a menu:
 6. View My Tickets (All)
 7. View Past Bookings
 8. Exit
+9. '''
