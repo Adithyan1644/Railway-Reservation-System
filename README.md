@@ -1,11 +1,9 @@
-# ☕ Railway Reservation System
+# 🚂 Railway Reservation System
 
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A console‑based, thread‑safe Railway Reservation application built with **Core Java** and **Advanced Java** features...
-
-# 🚂 Railway Reservation System
 
 A console‑based, thread‑safe Railway Reservation application built with **Core Java** and **Advanced Java** features.  
 It demonstrates real‑world concepts like train search, user registration, ticket booking & cancellation, and past booking retrieval – all in a multi‑threaded environment **without any external libraries or build tools**.
