@@ -137,3 +137,72 @@ javac -d out src/com/railway/**/*.java
 
 # Run the application
 java -cp out com.railway.app.MainApp
+
+
+🎮 How to Use
+After launching, you will see a menu:
+
+text
+===== Railway Reservation System =====
+1. Search Trains
+2. Register User
+3. Book Ticket
+4. Cancel Ticket
+5. View Ticket by PNR
+6. View My Tickets (All)
+7. View Past Bookings
+8. Exit
+Typical Workflow
+Search trains – enter source & destination, system shows available trains.
+
+Register a user – provide user ID, name, email, phone.
+
+Book a ticket – choose a train, user ID, number of seats, and travel date.
+
+View your tickets – list all bookings for that user.
+
+View past bookings – automatically filters tickets with travel date before today.
+
+Cancel a ticket – using the PNR shown after booking.
+
+📸 Sample Output
+text
+Sample trains loaded.
+
+1. Search Trains
+Enter Source: Delhi
+Enter Destination: Mumbai
+12345 | Shatabdi Exp | Delhi → Mumbai | Dep: 06:00 | Arr: 14:00 | ₹1250.00 | Seats: 100/100
+
+2. Register User
+User ID: U1001
+Name: Rajesh Kumar
+Email: rajesh@example.com
+Phone: 9876543210
+User registered: User[U1001] Rajesh Kumar (rajesh@example.com / 9876543210)
+
+3. Book Ticket
+Enter Train Number: 12345
+Enter User ID: U1001
+Number of seats: 2
+Travel Date (yyyy-mm-dd): 2026-05-15
+Booking successful!
+PNR: PNR1734567890 | Train: 12345 | Rajesh Kumar | Date: 2026-05-15 | Seats: [S1, S2] | ₹2500.00 | CONFIRMED
+🔮 Future Enhancements
+Persist data using JDBC (MySQL / PostgreSQL).
+
+Add web interface using Spring Boot + Thymeleaf.
+
+Implement user authentication (login / logout).
+
+Async email confirmation using ExecutorService.
+
+Improve seat allocation – real seat numbers per train.
+
+Add upgrade/downgrade of travel class (Sleeper, AC, General).
+
+REST API for integration with mobile apps.
+
+🤝 Contributing
+Contributions are welcome!
+Feel free to fork this repository, create a feature branch, and submit a pull request.
